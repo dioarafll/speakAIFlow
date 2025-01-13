@@ -5,6 +5,8 @@
 ## Deskripsi
 Aplikasi ini adalah antarmuka percakapan interaktif berbasis React Native yang memungkinkan pengguna untuk mengirimkan pesan ke model AI (menggunakan Hugging Face API) dan mendengarkan respons dalam bentuk suara menggunakan `expo-speech`. Selama proses, sebuah animasi Lottie akan dimainkan untuk meningkatkan pengalaman pengguna. Aplikasi ini juga mengelola clipboard dan memberikan respons suara dengan lancar.
 
+## Tampilan Utama
+![Tampilan Utama](assets/screenshots/screenshot.jpg)
 ### Fitur Utama:
 - **Input Pesan Teks**: Pengguna dapat mengetik pesan dan mengirimnya.
 - **Animasi Interaktif**: Lottie animation yang berfungsi sebagai indikator visual selama proses pengambilan respons dan pemutaran suara.
