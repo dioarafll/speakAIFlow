@@ -19,8 +19,8 @@ Aplikasi ini adalah antarmuka percakapan interaktif berbasis React Native yang m
 🔧 **Clone Repositori**:  
 Clone repositori ini ke mesin lokal Anda.
 ```bash
-git clone https://github.com/username/secure-auth-flow.git
-cd secure-auth-flow
+git clone https://github.com/dioarafll/speakAIFlow.git
+cd speakAIFlow
 ```
 
 🛠️ **Install Dependencies**:  
@@ -105,7 +105,7 @@ Clipboard aplikasi akan dibersihkan setelah setiap pengiriman pesan.
 ## Struktur Direktori
 
 ```
-/secure-auth-flow
+/speakAIFlow
 |-- /src
 |   |-- /components
 |   |-- /screens
